@@ -8,7 +8,7 @@ int main() {
 
     string *s2 = &s1;
 
-    (*s2)[1] = 'o';
+    (*s2)[1] = 'o'; //  blablabla
 
     cout << s1 << endl;
 
